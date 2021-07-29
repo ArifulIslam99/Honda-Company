@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+/*------------- Custom-Property------- */
+
+
+/* COlor Property  */
+.primary-color{
+    background-color: #264653;
+}
+
+.secondary-color{
+    background-color:  #E76F51;
+}
+
+
+/* font-size  */
+.fs-large{
+    font-size: 48px;
+}
+
+.fs-light{
+    font-size: 14px;
+}
